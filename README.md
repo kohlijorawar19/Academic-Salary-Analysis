@@ -32,5 +32,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 This project is licensed under the MIT License.
 
 # Acknowledgement
-would like to express deepest appreciation to all those who provided the possibility to complete this project. A special gratitude to users, whose questions, feedback, and contributions have been an invaluable part of the development process.
+Would like to express deepest appreciation to all those who provided the possibility to complete this project. A special gratitude to users, whose questions, feedback, and contributions have been an invaluable part of the development process.
 
